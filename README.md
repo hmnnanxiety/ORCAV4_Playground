@@ -1,8 +1,3 @@
-siap 😄
-ini **README.md versi ringkas + termasuk panduan `.sh` script** (kenapa ada, cara pakai, dan aturan mainnya). Fokus **environment dalam repo**, ga kebanyakan teori.
-
----
-
 ```md
 # ORCA V4 – SAUVC 2026 (Environment Repo)
 
