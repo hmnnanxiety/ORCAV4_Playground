@@ -214,9 +214,7 @@ git push origin 'your branch'
 
 # 7. Create Pull Request on GitHub
 ```
-tag kadiv atau captain di grup untuk merge to main
-```
-```
+TAG KADIV ATAU CAPTAIN UNTUK MERGE TO MAIN!
 
 ### Code Style
 
